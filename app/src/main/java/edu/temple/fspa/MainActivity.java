@@ -44,5 +44,6 @@ public class MainActivity extends AppCompatActivity {
 
         //Set FSPA
         viewPager.setAdapter(fspa);
+
     }
 }
