@@ -41,7 +41,7 @@ public class ColorFragment extends Fragment {
                 Intent intent = new Intent();
                 intent.setAction(Intent.ACTION_VIEW);
 
-                intent.setData(Uri.parse("http://www.temple.edu"));
+                intent.setData(Uri.parse("https://www.temple.edu"));
                 startActivity(intent);
             }
         });
